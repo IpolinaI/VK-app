@@ -1,0 +1,41 @@
+.main_page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 70%;
+    align-self: center;
+}
+
+.main_content {
+    display: flex;
+    flex-direction: row;
+}
+
+.left_content_part {
+    margin-right: 50px;
+}
+
+.user_friends_info {
+    font-weight: 500;
+}
+
+.logoutButton {
+    float: right;
+    width: 100px;
+    height: 30px;
+
+    background: #4d7198;
+    border-radius: 150px;
+    border-color: transparent;
+    outline: none;
+
+    font-size: 16px;
+    color: white;
+}
+
+.logoutButton:hover {
+    background: #3d5875;
+
+    cursor: pointer;
+}

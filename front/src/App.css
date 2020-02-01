@@ -1,0 +1,14 @@
+.page__container {
+  display: flex;
+  flex-direction: column;
+
+  box-sizing: border-box;
+
+  height: 100vh;
+  
+  margin: auto 0;
+  
+  padding: 5% 8.5% 5% 8.5%;
+  
+  user-select: none;
+}
