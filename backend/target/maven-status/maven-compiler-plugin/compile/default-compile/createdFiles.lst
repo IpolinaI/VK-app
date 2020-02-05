@@ -1,0 +1,7 @@
+ru\testtask\vkapp\dto\Friend.class
+ru\testtask\vkapp\Application.class
+ru\testtask\vkapp\dto\Friend$FriendBuilder.class
+ru\testtask\vkapp\web\UserController.class
+ru\testtask\vkapp\dto\User$UserBuilder.class
+ru\testtask\vkapp\dto\User.class
+ru\testtask\vkapp\business\UserService.class
